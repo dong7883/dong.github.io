@@ -1,0 +1,74 @@
+ /* The CSS File */
+ pre {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 600;
+    text-align: center;
+    line-weight: 20;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-style: bold;
+    font-weight: 700;
+    text-align: center;
+    line-weight: 26;
+}
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    font-weight: 600;
+    line-weight: 20;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-weight: 16;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-weight: 20;
+}
+
+ ul {
+    font-weight: 800;
+    font-size: xx-large;
+    font-style: italic;
+}
+ol {
+    font-weight: 100;
+    font-style: italic;
+}
+#left {width: 400px;height:100%;float:left}
+#right {margin-left: 400px;height:100%}
+#header {
+    background-color:cornsilk;
+    color:black;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#F5F5F5;
+    height:300px;
+    float:left;
+    text-align: center;
+    width:150px;
+    padding:100px;	      
+}
+
+#footer {
+    background-color:darkgray;
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:20px;	 	 
+}
